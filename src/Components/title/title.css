@@ -1,0 +1,15 @@
+.title .edit{
+    opacity: 0;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.title:hover .edit{
+    opacity: 1;
+
+}
+
+.title .form-control{
+    height: 60px;
+    font-size: 1.5rem;
+}
